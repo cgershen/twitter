@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+
+\bibitem{zipf}
+G.~K. Zipf.
+\newblock {\em {Selective Studies and the Principle of Relative Frequency in
+  Language}}.
+\newblock Harvard University Press, Cambridge, MA, USA, 1932.
+
+\bibitem{Michel14012011}
+Jean-Baptiste Michel, Yuan~Kui Shen, Aviva~Presser Aiden, Adrian Veres,
+  Matthew~K. Gray, The Google~Books Team, Joseph~P. Pickett, Dale Hoiberg, Dan
+  Clancy, Peter Norvig, Jon Orwant, Steven Pinker, Martin~A. Nowak, and
+  Erez~Lieberman Aiden.
+\newblock Quantitative analysis of culture using millions of digitized books.
+\newblock {\em Science}, 331(6014):176--182, 2011.
+
+\bibitem{Perc07122012}
+Matja{\v{z}} Perc.
+\newblock Evolution of the most common {English} words and phrases over the
+  centuries.
+\newblock {\em Journal of The Royal Society Interface}, 9(77):3323--3328, 2012.
+
+\bibitem{PhysRevX.3.021006}
+Martin Gerlach and Eduardo~G. Altmann.
+\newblock Stochastic model for the vocabulary growth in natural languages.
+\newblock {\em Phys. Rev. X}, 3:021006, May 2013.
+
+\bibitem{Cocho2015}
+Germinal Cocho, Jorge Flores, Carlos Gershenson, Carlos Pineda, and Sergio
+  S{\'a}nchez.
+\newblock Rank diversity of languages: Generic behavior in computational
+  linguistics.
+\newblock {\em PLoS ONE}, 10(4):e0121898, 04 2015.
+
+\bibitem{Morales2016}
+Jos{\'e}~A. Morales, Sergio S{\'a}nchez, Jorge Flores, Carlos Pineda, Carlos
+  Gershenson, Germinal Cocho, Jer{\'o}nimo Zizumbo, Rosal{\'\i}o~F.
+  Rodr{\'\i}guez, and Gerardo I{\~{n}}iguez.
+\newblock Generic temporal features of performance rankings in sports and
+  games.
+\newblock {\em EPJ Data Science}, 5(1):33, 2016.
+
+\bibitem{10.3389/fphy.2018.00045}
+Jos{\'e}~A. Morales, Ewan Colman, Sergio S{\'a}nchez, Fernanda
+  S{\'a}nchez-Puig, Carlos Pineda, Gerardo I{\~n}iguez, Germinal Cocho, Jorge
+  Flores, and Carlos Gershenson.
+\newblock Rank dynamics of word usage at multiple scales.
+\newblock {\em Frontiers in Physics}, 6:45, 2018.
+
+\bibitem{Cocho2019}
+Germinal Cocho, Rosal{\'\i}o~F. Rodr{\'\i}guez, Sergio S{\'a}nchez, Jorge
+  Flores, Carlos Pineda, and Carlos Gershenson.
+\newblock Rank-frequency distribution of natural languages: A difference of
+  probabilities approach.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  532:121795, 2019.
+
+\bibitem{Morales2014}
+A.~J. Morales, J.~Borondo, J.~C. Losada, and R.~M. Benito.
+\newblock Efficiency of human activity on information spreading on twitter.
+\newblock {\em Social Networks}, 39:1--11, 2014.
+
+\bibitem{doi:10.1063/1.4913758}
+A.~J. Morales, J.~Borondo, J.~C. Losada, and R.~M. Benito.
+\newblock Measuring political polarization: Twitter shows the two sides of
+  venezuela.
+\newblock {\em Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  25(3):033114, 2015.
+
+\bibitem{doi:10.1098/rsif.2016.1048}
+Alfredo~J. Morales, Vaibhav Vavilala, Rosa~M. Benito, and Yaneer Bar-Yam.
+\newblock Global patterns of synchronization in human communications.
+\newblock {\em Journal of The Royal Society Interface}, 14(128):20161048, 2017.
+
+\end{thebibliography}
