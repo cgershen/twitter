@@ -1,0 +1,53 @@
+metrology2.zip
+# Non-fundamental files
+figures/Qubit1_10_1000.pdf
+*.fdb_latexmk
+*.fls
+*.out
+#*.pdf
+*.aux
+*.log
+*.bib
+*.swp
+*.swo
+*.bbl
+*.blg
+*.png
+*.tex.bak
+*.run.xml
+*.tex.swo
+*.toc
+*.snm
+*.nav
+*.log
+#*.dat
+*.bcf
+*.dvi
+.DS_Store
+
+# python files
+*.ipynb_checkpoints
+#*.ipynb
+#*.py
+
+#ignore pdf
+metrology2.pdf
+/articulos
+/obj
+
+# previous version
+papervantrees.tex
+
+# but not the images
+!estproc.png
+
+
+# save the presentation
+!presgioc30317.pdf
+
+# but not the bibliography
+!bibliografia.bib
+iopams.sty
+iopart10.clo
+iopart12.clo
+iopart.cls
